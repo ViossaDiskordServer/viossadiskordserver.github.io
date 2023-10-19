@@ -1,3 +1,3 @@
 # viossadiskordserver.github.io
 Documents for the Viossa Discord Server
-- [server rules](/rules)
+- [server rules](https://viossadiskordserver.github.io/rules)

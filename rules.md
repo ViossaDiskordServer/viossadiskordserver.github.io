@@ -1,28 +1,42 @@
-# Welcome to the Viossa Diskordserver!
-_Read the rules below, and then go ahead and say jaa/ya/iá (spelling is not important) in the [#⁠jaa](https://discord.com/channels/193915435123474432/750379757799211190) chat. Provide any information you would like others to be aware of before heading into ⁠neolera or one of the voice channels. For English, please use a channel in the Social category, such as ⁠off-topic._
+# Rules
+**Summary:**
+1. No translation (except [the four translatables](https://viossadiskordserver.github.io/bigfour))
+2. If it's understood, it's Viossa.
+3. The chats in the Viossa Only category are Viossa only.
+4. This server is SFW. No sexually explicit, gory, or violent content.
+5. Don't use hate speech.
+6. Respect each other
+7. Respect the rulings of the staff (@Yewald)
+8. Discussion of controversial topics (politics, war, etc.) should be directed to #polite, which requires the \@ike role.
 
-## No Translation
-Translation is not how we learn and teach Viossa.
+## 1: No translation
+Translation is not how we learn and teach Viossa. Instead, we teach using pictures, diagrams, video calls, and other aids to couple words to meaning.
 
-### The Big Four
-You are allowed to translate the following four words and no others. If you want an extra challenge, don't click the link!
+On the Viossa Diskordserver, you are allowed to translate the following four words. If you want an extra challenge, don't click the link! [The big four.](https://viossadiskordserver.github.io/bigfour)
 
-[The big four](https://viossadiskordserver.github.io/bigfour)
+Outside of the teaching-learning cycle, we also make an exception for artistic translations (such as those of songs, books, or poems), as well as for academic translations (such as for a formal research paper). In both cases, this exception is dependent on translations of either class appearing in the appropriate place. If you're not sure where that is, please ask.
 
-## If it's understood, it's Viossa
-If others can understand you, then it's probably viossa. 
-If nobody can understand you, try to make yourself understood. 
-If you can understand someone else, then it's probably viossa. 
-If you can't, try to learn how.
+Additionally, please don't attempt to derive or share translation-based learning materials on-server, or poach members for such a purpose.
 
-## Contributing
-Viossa is already developed at its core, so while things change all the time, you will find most basic concepts already have basic words. You may be met with skepticism if you try to re-coin one. However, areas like science and games still have semantic gaps because they are less commonly-discussed. You're encouraged to fill in those gaps through conversing in Viossa, letting others participate in the process in every way possible. Here are some tips that will help avoid stepping on others' toes:
-- ask if a word already exists for a meaning
-- invite them to coin related terms, such as a word with the opposite meaning
-- welcome other people to ask clarifying questions
-- ask more people over time if they've understood the new vocabulary
+## 2: If it's understood, it's Viossa
+All that is required to speak Viossa is that other speakers be able to understand you. There is no right or wrong way to speak or write, and no global standard. However, Viossa is collaborative: members should attempt to make others understand them, and members should attempt to understand.
 
-## Help Me!
-For Viossa questions you can ping @Viossadjin.
-To summon a mod, ping the @Yewaldnen role.
-Always feel free to ping @Ring ☎️ for a voice call.
+## 3: Viossa-only chats
+This is self-explanatory—some chats do not permit English. If you must use English to coach learners on the learning process, go to #meta instead.
+
+## 4: SFW
+Self-explanatory. If a mod does not like what you have posted, they will inform you; see rule 7.
+
+## 5: No hate speech
+Slurring others—whether others on the server or off it—or advocating for violence is not welcome. This is an LGBTQ+ friendly international community.
+
+## 6: Respect each other
+Self-explanatory. If a mod does not like what you have posted, they will inform you; see rule 7.
+
+## 7: Respect the staff's rulings
+While appeals will always be considered, the staff (the Yewald as well as the Yewaldnen) reserve the right to kick, ban, mute, or alter the permissions of members to preserve a respectful environment.
+
+If you believe a mod has abused their powers, you may appeal via DM or create a ticket through YAGPDB using the `/ticket open` command.
+
+## 8: #polite and ike
+Many are life's troubling realities, and vast is our need to discuss them. The **ike** category is an opt-in set of chats where discussion of heavy, sensitive, or potentially contentious topics is allowed, provided that users are especially respectful of each other's views during such discussions. By accepting the ike role, you agree to adhere to this guideline and encourage others to do the same. 

@@ -1,4 +1,5 @@
+theme: jekyll-theme-minimal
 1. fshto — understand
-3. ka — what
-4. akkurat, akku, akk, ak — yes
-5. nai, naj — no
+2. ka — what
+3. akkurat, akku, akk, ak — yes
+4. nai, naj — no

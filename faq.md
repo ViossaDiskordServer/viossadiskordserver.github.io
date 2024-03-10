@@ -10,4 +10,6 @@ Usually, you won't come into Viossa knowing any words, and since you can't acqui
 
 ## How do I contribute?
 
-Viossa is semisolid. Starting with a few core concepts for which the words are already well-defined and seldom change, travelling outward into more narrow or specialized fields yields more mutability.
+Viossa is semisolid. Starting with a few core concepts for which the words are already well-defined and seldom change, travelling outward into more narrow or specialized fields yields more mutability. The more deeply you want to talk about a topic, the more likely it is that you will find there are words missing and thus opportunities to offer new ones. 
+
+However with this increased opportunity to create comes increased responsibility to teach: Viossa is only Viossa if other speakers can understand it. So, when you add words, you are responsible for making sure that they can be understood by others. 

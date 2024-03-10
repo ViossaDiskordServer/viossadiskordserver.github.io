@@ -1,4 +1,3 @@
-theme: jekyll-theme-minimal
 1. fshto — understand
 2. ka — what
 3. akkurat, akku, akk, ak — yes

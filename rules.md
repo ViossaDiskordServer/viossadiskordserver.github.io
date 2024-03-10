@@ -4,10 +4,9 @@
 2. If it's understood, it's Viossa.
 3. The chats in the Viossa Only category are Viossa only.
 4. This server is SFW. No sexually explicit, gory, or violent content.
-5. Don't use hate speech.
-6. Respect each other
-7. Respect the rulings of the staff (@Yewald)
-8. Discussion of controversial topics (politics, war, etc.) should be directed to #polite, which requires the \@ike role.
+5. Respect one another and don't use hate speech.
+6. Respect the rulings of the staff (@Yewald)
+7. Discussion of controversial topics (politics, war, etc.) should be directed to #polite, which requires the \@ike role.
 
 ## 1: No translation
 Translation is not how we learn and teach Viossa. Instead, we teach using pictures, diagrams, video calls, and other aids to couple words to meaning.
@@ -19,24 +18,25 @@ Outside of the teaching-learning cycle, we also make an exception for artistic t
 Additionally, please don't attempt to derive or share translation-based learning materials on-server, or poach members for such a purpose.
 
 ## 2: If it's understood, it's Viossa
-All that is required to speak Viossa is that other speakers be able to understand you. There is no right or wrong way to speak or write, and no global standard. However, Viossa is collaborative: members should attempt to make others understand them, and members should attempt to understand.
+All that is required to speak Viossa is that other speakers be able to understand you. There is no right or wrong way to speak or write, and no global standard.
+
+However, Viossa is a collaborative group project: members should strive to make others understand them, and in return make an effort to understand others.
 
 ## 3: Viossa-only chats
-This is self-explanatory—some chats do not permit English. If you must use English to coach learners on the learning process, go to #meta instead.
+Chats in the **Viossa Only** section do not permit English. If you must use English to coach learners on the learning process, go to #meta instead.
+
+This doesn't mean that other channels are English-only, though! Viossa is allowed everywhere.
 
 ## 4: SFW
-Self-explanatory. If a mod does not like what you have posted, they will inform you; see rule 7.
+If a mod does not like what you have posted, they will inform you; see rule 6. This is a public Discord server, think before you post.
 
-## 5: No hate speech
-Slurring others—whether others on the server or off it—or advocating for violence is not welcome. This is an LGBTQ+ friendly international community.
+## 5: Respect one another
+Respect one another. Using slurs or hate speech against others, whether on- or off-server, or advocating for violence are not welcome. This is an LGBTQ+ friendly international community.
 
-## 6: Respect each other
-Self-explanatory. If a mod does not like what you have posted, they will inform you; see rule 7.
+## 6: Respect the staff's rulings
+The word of staff (the Yewald as well as the Yewaldnen) is final, and they may kick, ban, or mute members or change members' access permissions to make sure this environment stays respectful and puts the Viossa community first.
 
-## 7: Respect the staff's rulings
-While appeals will always be considered, the staff (the Yewald as well as the Yewaldnen) reserve the right to kick, ban, mute, or alter the permissions of members to preserve a respectful environment.
+Appeals will always be considered, and if you feel that a mod action was inappropriate, you can DM any Yewald or open a ticket with YAGPDB's `/ticket open` command.
 
-If you believe a mod has abused their powers, you may appeal via DM or create a ticket through YAGPDB using the `/ticket open` command.
-
-## 8: #polite and ike
-Many are life's troubling realities, and vast is our need to discuss them. The **ike** category is an opt-in set of chats where discussion of heavy, sensitive, or potentially contentious topics is allowed, provided that users are especially respectful of each other's views during such discussions. By accepting the ike role, you agree to adhere to this guideline and encourage others to do the same. 
+## 7: #polite and ike
+Many are life's troubling realities, and vast is our need to discuss them. The **ike** category is an opt-in set of chats where discussion of heavy, sensitive, or potentially contentious topics is allowed, provided that users are especially respectful of each other's views during such discussions. By accepting the ike role, you agree to adhere to this guideline and encourage others to do the same.

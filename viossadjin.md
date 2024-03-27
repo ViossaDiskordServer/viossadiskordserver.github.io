@@ -7,5 +7,5 @@ There are no specific acceptance criteria, but a few examples of things that ear
 - Simply talking often and comfortably with others in Viossa
 - Showing confidence in production and teaching
 - Creation of artistic material in Viossa
-- Creation of rich or useful texts in Viossa, such as news articles or encyclopedia pages on [vikoli.org]
+- Creation of rich or useful texts in Viossa, such as news articles or encyclopedia pages on [vikoli.org](https://vikoli.org)
 - Collaboration on projects like the above looks even better

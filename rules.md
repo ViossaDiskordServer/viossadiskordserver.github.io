@@ -44,11 +44,11 @@ Many are life's troubling realities, and vast is our need to discuss them. The *
 ### Self-/Other-harm
 
 While discussing self-harm generally is allowed (with appropriate and clear use of content warnings), This server in itself is not an emergency mental health resource, and is not a substitute for professional help. You should not use this space to:
-- express present intent or desire to harm yourself or others
+- express intent or desire to harm yourself or others
 - solicit help in stopping yourself from harming yourself or someone else
 
 By crossing these boundaries, it is important to be aware that you are asking members of the server (including moderators and the owner) to perform a role for which they are not trained or equipped. At the moderators' sole discretion, this may not be tolerated and may result in timeout or removal from the server.
 
 If you are experiencing a crisis, please call 988 (in the United States), 999 (in the UK), or locate an emergency hotline. A list of resources by country exists here:  https://blog.opencounseling.com/suicide-hotlines/
 
-If you are struggling especially with thoughts of this nature, but are not immediately in danger, please consider seeking counseling rather than relying excessively on the server for support.
+If you are struggling with thoughts of this nature, but are not immediately in danger, please consider seeking counseling.

@@ -53,4 +53,4 @@ You should not use this space to:
 
 By crossing these boundaries, please be aware that you are asking members of the server (including moderators and the owner) to perform a role for which they are not trained or equipped. At the moderators' sole discretion, this may not be tolerated and may result in a warning, timeout, removal of the @ike role, or removal from the server.
 
-If you are struggling with thoughts of this nature, but are not immediately in danger, please consider seeking counseling. If you are experiencing an immediate crisis, please call 988 (in the United States), 999 (in the UK), or locate an emergency hotline appropriate for you. A list of resources by country exists here:  [https://blog.opencounseling.com/suicide-hotlines/]
+If you are struggling with thoughts of this nature, but are not immediately in danger, please consider seeking counseling. If you are experiencing an immediate crisis, please call 988 (in the United States), 999 (in the UK), or locate an emergency hotline appropriate for you. A list of resources by country exists here:  [https://blog.opencounseling.com/suicide-hotlines/](https://blog.opencounseling.com/suicide-hotlines/)

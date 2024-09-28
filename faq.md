@@ -33,3 +33,6 @@ no
 
 yes, just don't share them on the server
 
+## What about etymologies?
+
+Discussing etymologies is close enough to translation, that usually it's best to avoid discussing the etymology of Viossa words during the learning process.

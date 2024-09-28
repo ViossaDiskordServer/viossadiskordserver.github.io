@@ -13,3 +13,23 @@ Usually, you won't come into Viossa knowing any words, and since you can't acqui
 Viossa is semisolid. Starting with a few core concepts for which the words are already well-defined and seldom change, travelling outward into more narrow or specialized fields yields more mutability. The more deeply you want to talk about a topic, the more likely it is that you will find there are words missing and thus opportunities to offer new ones. 
 
 However with this increased opportunity to create comes increased responsibility to teach: Viossa is only Viossa if other speakers can understand it. So, when you add words, you are responsible for making sure that they can be understood by others. 
+
+-----
+Everything above this line is from the old draft. Below is new content.
+
+## How do I get access to X channel? How do these roles work?
+
+(explain all that stuff, point at the start-here channel)
+
+## Can I speak in my native language if it isn't English?
+
+no (with details on why)
+
+## Can I ask for translations in private messages?
+
+no
+
+## Am I allowed to keep private notes with translations?
+
+yes, just don't share them on the server
+

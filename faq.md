@@ -21,7 +21,7 @@ Everything above this line is from the old draft. Below is new content.
 
 When teaching using comprehensible input, it's important to immerse learners in the language through **meaningful, contextualized examples** that align with their current understanding of the world. 
 - Start by using **simple** phrases and vocabulary in **visual formats**, such as pictures and emojis when teaching by text, or gestures and props when teaching by video. 
-- Use **real-life scenarios** as example sentences to provide context, allowing learners to infer meaning naturally. 
+- Use **example sentences** coupled with real-life scenarios to provide context, allowing learners to infer meaning naturally.
 - Use **repetition** of key structures in varied contexts to reinforce understanding and encourage active participation. 
 - Additionally, tailor input to the learner's level, gradually increasing complexity as their comprehension improves. The goal is to provide input that is slightly above the learner's current level (known as "i+1") to foster learning while avoiding frustration.
 

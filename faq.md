@@ -22,7 +22,7 @@ When teaching using comprehensible input, it's important to immerse learners in 
 
 ## Can I speak in my native language if it isn't English? As long as it's understood, it's Viossa, right?
 
-Speaking in another natural or constructed language is not the same as Viossa. Since Viossa is an existing semisolid language with vocabulary and structure, only Viossa is used to learn Viossa. Using a non-English language such as Spanish or Toki Pona is still breaks the immersion process.
+Speaking in another natural or constructed language is not the same as Viossa. Since Viossa is an existing semisolid language with vocabulary and structure, only Viossa is used to learn Viossa. Using a non-English language such as Spanish or Toki Pona still breaks the immersion process.
 
 ## Can I ask for translations in private messages?
 

@@ -10,7 +10,7 @@ To emphasize: asking for Viossa translations to/from any language is forbidden a
 
 ## How do I contribute?
 
-Viossa is semisolid. Most core concepts have set words and don't change, but if you want to talk deeply about a topic, you may find missing words and thus have an opportunity to coin words. However, it is also on you to ensure it can be understood by others.
+Viossa is semisolid. Most core concepts have set words and don't change, but if you want to talk deeply about a topic, you may find missing words and thus have an opportunity to coin words. However with this increased opportunity to create comes increased responsibility to teach: Viossa is only Viossa if other speakers can understand it. So, when you add words, you are responsible for making sure that they can be understood by others. 
 
 ## How do I teach?
 
@@ -39,4 +39,8 @@ Yes, just don't share them on the server. Many learners of Viossa choose to keep
 ## How do I get access to X channel? How do these roles work?
 
 (explain all that stuff, point at the start-here channel)
+
+## What is a copula and why shouldn't I consider not using one?
+
+There is a long history of not using copula words (words meaning "to be" , like "is" or "are" or "was" ) in Viossa, or using them to the very minimal extent possible. Try using it less! See what other ways you can make it clear what you mean! Remember, if other people can understand you, it works!
 

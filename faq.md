@@ -24,6 +24,8 @@ When teaching using comprehensible input, it's important to immerse learners in 
 
 Speaking in another natural or constructed language is not the same as Viossa. Since Viossa is an existing semisolid language with vocabulary and structure, only Viossa is used to learn Viossa. Using a non-English language such as Spanish or Toki Pona still breaks the immersion process.
 
+The general rule of Viossa is "If you are understood, then you are speaking correct Viossa." This does not, however, mean that you can start saying random words from random other languages. Viossa is still a set language. The "if you are understood rule" means that if your usage of the language is understood, then you are speaking correctly.
+
 ## Can I ask for translations in private messages?
 
 As mods of the Viossa Discord Server, we can't tell people what to do outside the server, but translation in private messages is generally frowned upon in the community.

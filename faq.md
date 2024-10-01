@@ -44,7 +44,7 @@ There are a couple ways to get roles:
 
 Some channels are available to all users or viewable depending on roles they select (see 1.), and some channels are reserved for the privileged roles (see 2.).
 
-## What is a copula and why shouldn't I consider not using one?
+## What is copula? Should I use copula?
 
 There is a long history of not using copula words (words meaning "to be" , like "is" or "are" or "was" ) in Viossa, or using them to the very minimal extent possible. Try using it less! See what other ways you can make it clear what you mean! Remember, if other people can understand you, it works!
 

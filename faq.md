@@ -38,7 +38,11 @@ Yes, just don't share them on the server. Many learners of Viossa choose to keep
 
 ## How do I get access to X channel? How do these roles work?
 
-(explain all that stuff, point at the start-here channel)
+There are a couple ways to get roles:
+1. Using the onboarding process to select interests (which can always be re-accessed at "⁠Channels & Roles" after joining)
+2. Certain roles like Viossadjin and Mellandjin are privileged roles granted either based on someone's skill and involvement in Viossa
+
+Some channels are available to all users or viewable depending on roles they select (see 1.), and some channels are reserved for the privileged roles (see 2.).
 
 ## What is a copula and why shouldn't I consider not using one?
 

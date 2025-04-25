@@ -1,5 +1,5 @@
 # About @Viossadjin and @Mellandjin
-The Viossa Diskordserver has a role called **@Viossadjin**, which is granted to users who:
+The Viossa Diskordserver has a role called **@viossadjin**, which is granted to users who:
 1. Ask for it
 2. Are given majority approval by current Viossadjin
 3. Are not vetoed by a Moderator (Yewaldnen or Yewald)

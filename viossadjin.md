@@ -13,8 +13,8 @@ There are no specific acceptance criteria, that is there are no rules that shoul
 - Collaboration with other members of the community on projects like the above
 
 There is also a **@mellandjin** role which serves as an intermediary step on the way to being a Viossadjin. This role is granted to users who:
-1. Are nominated by a Viossadjin
-2. Are given majority approval by current Viossadjin
+1. Are nominated by a Viossadjin or Mellandjin
+2. Are given majority approval by current Viossadjin or Mellandjin
 3. Are not veto'd by a Moderator (Yewaldnen or Yewald)
 
 Similar to the above, there are no specific criteria, but someone usually qualifies for @Mellandjin if they are recognizable participants in the community, even if their skills in Viossa are not quite to the level of Viossadjin.
